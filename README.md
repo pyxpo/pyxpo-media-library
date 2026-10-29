@@ -1,5 +1,7 @@
 # pyxpo-media-library
 
+[![CI](https://github.com/pyxpo/pyxpo-media-library/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-media-library/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-media-library)](https://pypi.org/project/pyxpo-media-library/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-media-library)](https://pypi.org/project/pyxpo-media-library/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Save photos and videos to the phone's photo library from [pyxpo](https://github.com/pyxpo/pyxpo) apps, written in
 Python, with the permission handling that goes with it. The API follows
 [expo-media-library](https://docs.expo.dev/versions/latest/sdk/media-library/).
